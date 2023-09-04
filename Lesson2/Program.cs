@@ -10,12 +10,7 @@ void NewFun()
 {
      void NewFunc2()
     {
-        string NewFunc3()
-        {
-            return "new";
-        }
-
-        var a = NewFunc3();
+        
 
     }
 }
