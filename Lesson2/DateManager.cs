@@ -14,5 +14,10 @@ namespace Lesson2
         {
             return DateTime.Now;
         }
+
+        public int GetCurrentYear()
+        {
+            return DateTime.Now.Year;
+        }
     }
 }
